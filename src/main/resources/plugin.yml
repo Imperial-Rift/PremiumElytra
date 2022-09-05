@@ -1,0 +1,4 @@
+name: PremiumElytra
+version: '${project.version}'
+main: dev.jdog.premiumelytra.PremiumElytra
+api-version: 1.19
